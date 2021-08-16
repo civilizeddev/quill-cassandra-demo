@@ -1,0 +1,34 @@
+{
+    "[json]": {
+        "editor.defaultFormatter": "vscode.json-language-features"
+    },
+    "[jsonc]": {
+        "editor.defaultFormatter": "vscode.json-language-features"
+    },
+    "[scala]": {
+        "editor.defaultFormatter": "scalameta.metals"
+    },
+    "editor.formatOnSave": true,
+    "files.watcherExclude": {
+        "**/.bloop": true,
+        "**/.bsp": true,
+        "**/.metals": true,
+        "**/.ammonite": true,
+        "**/project/project": true,
+        "**/target": true
+    },
+    "files.exclude": {
+        "**/.git": true,
+        "**/.svn": true,
+        "**/.hg": true,
+        "**/CVS": true,
+        "**/.DS_Store": true,
+        "**/.bloop": true,
+        "**/.bsp": true,
+        "**/.metals": true,
+        "**/target": true,
+        "**/project/project": true,
+        "**/metals.sbt": true
+    },
+    "explorerExclude.backup": null,
+}

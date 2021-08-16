@@ -1,0 +1,15 @@
+{
+    "recommendations": [
+        "scala-lang.scala",
+        "scalameta.metals",
+        "scala-lang.scala-snippets",
+        "vscjava.vscode-java-pack",
+        "redvanworkshop.explorer-exclude-vscode-extension",
+        "sabieber.hocon",
+        "zzzz.hocon-colorizer",
+        "tamasfe.even-better-toml"
+    ],
+    "unwantedRecommendations": [
+        "lightbend.vscode-sbt-scala",
+    ]
+}
